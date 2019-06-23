@@ -12,13 +12,13 @@ body {
 
 .header-text{
   text-align: center;
-  font-size: 2em;
+  font-size: 4vw;
 }
 
 .btn-login {
   margin-top: 20px;
-  height: 44px;
-  width: 40%;
+  height: 50px;
+  width: 80%;
 }
 
 .modal-body{
@@ -42,7 +42,7 @@ input[type=button], input[type=submit], input[type=reset]  {
   text-decoration: none;
   display: inline-block;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 3vw;
   border-radius: 5px 5px 5px 5px;
   margin: 30px 20px 20px 20px;
 }
@@ -55,15 +55,10 @@ input[type=text] {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 3vw;
   margin: 5px;
   width: 85%;
   border: 2px solid #f6f6f6;
-  -webkit-transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  -ms-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
   -webkit-border-radius: 5px 5px 5px 5px;
   border-radius: 5px 5px 5px 5px;
 }
